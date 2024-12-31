@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TubeControl</string>
+    <string name="stop_scrolling_man">STOP SCROLLING MAN</string>
+    <string name="title_activity_stop_scrolling_page">stop_scrolling__page</string>
+    <string name="title_activity_stop_scrolling">StopScrolling</string>
+    <string name="are_you_watching_shorts_or_just_scrolling">Scrolling too much?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="contact">Feedback / Contact</string>
+    <string name="sorry_about_that">Sorry about that! \n The pop-up will disappear in a few seconds. \n In the meantime, take a deep breath, give your eyes a break, and enjoy the world around you 🌎. </string>
+    <string name="switch_state_key">switch_state</string>
+    <string name="monitor_youtube">Monitor YouTube</string>
+    <string name="disable_autoplay"><![CDATA[Disable autoplay in the app (Settings > Auto-play)]]></string>
+    <string name="title_activity_info">Info</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="about_page_text" translatable="false">Hi, like you, I regularly use YouTube. Since the update introducing Shorts videos, I found myself spending a lot of time on the application. Watching YouTube isn\'t inherently a bad thing, but I think it becomes problematic when it\'s completely uncontrolled. In my case, I often want to watch a longer video or listen to a podcast but end up aimlessly scrolling through the application after just 30 seconds of listening or watching, and then decide to click on a Shorts video. After that, it\'s a disaster: I get sucked into the algorithms and only manage to break free after many minutes or even hours.\n\nSo, I decided to create an app to regain control of my viewing habits. The principle is simple : once monitoring is enabled, if the application detects excessive activity on YouTube, it will show you a non-intrusive alert, allowing you to decide whether you want to continue browsing. The application gives you back control in moments when you\'re engulfed by the algorithm.\n\nThe easiest way to understand it is to try it out directly. This is just the beginning of the application. If you have any recommendations or possible improvements, I would be very happy to hear them. Please feel free to contact me.\n\n</string>
+    <string name="toggle_back">If the monitoring is ON, you will see a notification; otherwise, toggle it back on.</string>
+    <string name="saved_intensity_key">saved_intensity</string>
+    <string name="verification_frequency_text">Verification Frequency</string>
+    <string name="subscription_title">Monthly Subscription</string>
+    <string name="subs_price">0.59€/month</string>
+    <string name="subs_CTA">Save Time and Regain Control</string>
+    <string name="list_of_problems_and_goals">" 🤔 Tired of aimless YouTube scrolling? Of YouTube shorts ?\n 🕒 Feeling like you're wasting time?\n 🤯 Losing control of your video choices?\n 📝 Can't remember what you've watched?\n 🗨️ Drowning in comment sections?\n \n \n Principle: \n \n ⏳ Start valuing your time. \n 🛑 Stop endless scrolling. \n 🤖 Non-intrusive alerts to regain control. \n 📺Enjoy watching long videos and podcasts without inconvenience. \n 🚫 No ads. \n 🔐 No data collected, except for what's necessary to sign you in. \n"</string>
+    <string name="saved_frequency_key">frequency_state</string>
+
+</resources>

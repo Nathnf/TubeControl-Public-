@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="left_guideline" type="id" />
+    <item name="right_guideline" type="id" />
+    <item name="top_guideline" type="id" />
+    <item name="bottom_guideline" type="id" />
+</resources>
